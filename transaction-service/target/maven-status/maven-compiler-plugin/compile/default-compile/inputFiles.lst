@@ -1,0 +1,4 @@
+/home/pedroaroma/workspace/cqrs-quarkus-eks-master/transaction-service/src/main/java/com/moduscreate/bankaccount/TransactionResource.java
+/home/pedroaroma/workspace/cqrs-quarkus-eks-master/transaction-service/src/main/java/com/moduscreate/bankaccount/Transaction.java
+/home/pedroaroma/workspace/cqrs-quarkus-eks-master/transaction-service/src/main/java/com/moduscreate/bankaccount/TransactionOutgoingProducer.java
+/home/pedroaroma/workspace/cqrs-quarkus-eks-master/transaction-service/src/main/java/com/moduscreate/bankaccount/TransactionType.java

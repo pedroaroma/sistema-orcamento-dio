@@ -1,0 +1,5 @@
+com/moduscreate/bankaccount/Transaction.class
+com/moduscreate/bankaccount/TransactionOutgoingProducer.class
+META-INF/panache-archive.marker
+com/moduscreate/bankaccount/TransactionType.class
+com/moduscreate/bankaccount/TransactionResource.class
